@@ -1,0 +1,17 @@
+	div.title {
+			background-color:lightgray;
+			}
+	h1  {
+			text-align:center; padding:10px; font-family:Georgia; color:blue; font-weight: bold; 
+				font-size: 24px; word-spacing:2em; letter-spacing:1.6em;
+				}
+	h2  {
+			text-align:left; color:darkred; font-family:Georgia; font-size:18px; 
+			  letter-spacing:1.4em;
+			  }
+	td  {
+			padding-right: 100px; font-weight:bold;
+			}
+	td.boo {
+			font-weight:normal;
+			}
